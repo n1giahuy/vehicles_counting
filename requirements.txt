@@ -1,0 +1,7 @@
+ultralytics
+opencv-python-headless 
+numpy
+tqdm
+PyYAML
+scikit-learn
+redis

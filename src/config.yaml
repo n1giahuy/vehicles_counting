@@ -1,0 +1,12 @@
+# Configuration
+data_dir: 'datasets'
+class_names: ['car', 'truck', 'van']
+video_path: 'videos/data.mp4'
+
+
+model_name: '/mnt/workspace/huyy/mot/highway/runs/yolo11/weights/best.pt'
+conf: 0.5
+train_ratio: 0.8
+batch_size: 4
+num_workers: 2
+epochs: 20
